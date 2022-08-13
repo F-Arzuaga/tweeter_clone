@@ -1,0 +1,10 @@
+/* #coverImg {
+    width: 100%;
+    min-height: 300px;
+    background-image: ;
+} */
+
+
+.profileImg{
+    object-fit: cover;
+}
